@@ -18,4 +18,4 @@ salesperson.sell_pants(pant_one)
 salesperson.pants_sold[0] == pant_one.color
 print(salesperson.pants_sold)
 
-
+print(part_one.price)
